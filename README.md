@@ -1,2 +1,2 @@
 # Images
-For Record img
+For Recording img
